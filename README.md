@@ -157,7 +157,6 @@ Special thanks to the following tools and frameworks:
 
 ---
 
-Here’s the content for your `README.md` file:
 
 ---
 
