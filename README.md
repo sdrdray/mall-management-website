@@ -1,4 +1,3 @@
-Here’s the corrected and polished version of your README:
 
 ---
 
@@ -155,6 +154,19 @@ Special thanks to the following tools and frameworks:
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Lucide React](https://lucide.dev/)
+
+---
+
+Here’s the content for your `README.md` file:
+
+---
+
+## Admin Passkey  
+**123**
+
+## Website Deployment  
+The project is deployed at:  
+[https://7jebbpqt4lot2nkb.vercel.app](https://7jebbpqt4lot2nkb.vercel.app)
 
 ---
 
