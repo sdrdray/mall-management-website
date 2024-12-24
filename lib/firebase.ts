@@ -6,15 +6,16 @@ import { getAnalytics } from 'firebase/analytics';
 import { getFunctions } from 'firebase/functions';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyALrLtHnJFUx36vEYusPmA0sst8KHXctT4",
-  authDomain: "mall-app-196e1.firebaseapp.com",
-  databaseURL: "https://mall-app-196e1-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "mall-app-196e1",
-  storageBucket: "mall-app-196e1.firebasestorage.app",
-  messagingSenderId: "331407749229",
-  appId: "1:331407749229:web:38ac3c602e679e868fcf64",
-  measurementId: "G-PY517NQD4Z"
+  apiKey: process.env.NEXT_PUBLIC_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_AUTH_DOMAIN,
+  databaseURL: process.env.NEXT_PUBLIC_DATABASE_URL,
+  projectId: process.env.NEXT_PUBLIC_PROJECT_ID,
+  storageBucket: process.env.NEXT_PUBLIC_STORAGE_BUCKET,
+  messagingSenderId: process.env.NEXT_PUBLIC_MESSAGING_SENDER_ID,
+  appId: process.env.NEXT_PUBLIC_APP_ID,
+  measurementId: process.env.NEXT_PUBLIC_MEASUREMENT_ID
 };
+
 
 // Initialize Firebase
 let app;
