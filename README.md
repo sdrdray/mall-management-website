@@ -165,12 +165,12 @@ Special thanks to the following tools and frameworks:
 
 ## Website Deployment  
 The project is deployed at:  
-[https://7jebbpqt4lot2nkb.vercel.app](https://7jebbpqt4lot2nkb.vercel.app)
+[https://....(ask or email me).vercel.app](https://....(ask or email me).vercel.app)
 
 ---
 
 ### 🚀 Developed with ❤️ by [sdrdrax]
-
+mail - draysubhradip@gmail.com
 ---
 
 This revised version fixes minor formatting issues, adds clarity, and maintains a professional tone for your project.
