@@ -172,5 +172,3 @@ The project is deployed at:
 ### 🚀 Developed with ❤️ by [sdrdrax]
 mail - draysubhradip@gmail.com
 ---
-
-This revised version fixes minor formatting issues, adds clarity, and maintains a professional tone for your project.
