@@ -166,7 +166,8 @@ Special thanks to the following tools and frameworks:
 ## Website Deployment  
 The project is deployed at:  
 [https://....(ask or email me).vercel.app](https://....(ask or email me).vercel.app)
-
+or 
+you can download the pwa from the files above (download mall.apk ) and then install in android or ios 
 ---
 
 ### 🚀 Developed with ❤️ by [sdrdrax]
