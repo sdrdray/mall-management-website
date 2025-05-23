@@ -165,7 +165,7 @@ Special thanks to the following tools and frameworks:
 
 ## Website Deployment  
 The project is deployed at:  
-[mall-mgmt-webapp](j1ucax1vx0u99ymt.vercel.app)
+[mall-mgmt-webapp](https://j1ucax1vx0u99ymt.vercel.app)
 or 
 you can download the pwa from the files above (download mall.apk ) and then install in android or ios 
 ---
